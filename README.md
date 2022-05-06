@@ -4,15 +4,15 @@ Visitor counter badge is a simple API which serves badge from [shields.io](https
 ## Usage
 You need a key and a value to create a unique key-value pair which will eventually be used to count visitors. SO considering you want to use the badge for your repository, `user/repo-name` can be a good unique key-value pair.
 
-Default Badge
-![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
+Default Badge\
+![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
 ```markdown
-![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
+![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
 ```
-Badge with custom label and color
-![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
+Badge with custom label and color\
+![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
 ```markdown
-![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hitss&color=fc7695&labelColor=95abdb)
+![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hitss&color=fc7695&labelColor=95abdb)
 ```
 
 ## Custom Styling
