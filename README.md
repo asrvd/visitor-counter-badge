@@ -6,12 +6,12 @@ You need a key and a value to create a unique key-value pair which will eventual
 
 Default Badge
 ![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
-```md
+```markdown
 ![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
 ```
 Badge with custom label and color
 ![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
-```md
+```markdown
 ![](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hitss&color=fc7695&labelColor=95abdb)
 ```
 
@@ -25,11 +25,11 @@ You can customize the badge by passing the following parameters:
 | color            | color for right side of badge | 5c5866        |
 | labelColor       | color for left side of badge  | 2b2930        |
 
-For avaialble styles and color types, please refer to [shields.io](https://shields.io/ site.
+For avaialble styles and color types, please refer to [shields.io](https://shields.io/) site.
 
 ## A note on using
-The API depends upon [countapi](https://countapi.xyz/) for counting visitors. Though it's kind of impossible, still if you get ratelimited by the API you can just host your own instance of this API using [Vercel](https://vercel.app/) and get unlimited personal requests!
-![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fasheeeshh%2Fvisitor-counter-badge)
+The API depends upon [countapi](https://countapi.xyz/) for counting visitors. Though it's kind of impossible, still if you get ratelimited by the API you can just host your own instance of this API using [Vercel](https://vercel.app/) and get unlimited personal requests!\
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fasheeeshh%2Fvisitor-counter-badge)
 
 ## License
 MIT
