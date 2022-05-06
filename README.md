@@ -2,7 +2,7 @@
 Visitor counter badge is a simple API which serves badge from [shields.io](https://shields.io/). You can use this badge to count visitors for your GitHub Repositories or even your personal sites. The usage is very simple.
 
 ## Usage
-You need a key and a value to create a unique key-value pair which will eventually be used to count visitors. SO considering you want to use the badge for your repository, `user/repo-name` can be a good unique key-value pair.
+You need a key and a value to create a unique key-value pair which will eventually be used to count visitors. SO considering you want to use the badge for your repository, `user/repo-name` can be a good unique key-value pair. For example `https://visitor-counter-badge.vercel.app/api/username/repo-name/` will return a badge where `username` is your github username and `repo-name` is your repository name..`
 
 ### Default Badge
 ![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge/)
